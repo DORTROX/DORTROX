@@ -23,3 +23,6 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 </p>
+
+   <h2>My server</h2>
+   <p>/discord/:803947482258210817</p>
