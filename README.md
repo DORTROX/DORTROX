@@ -46,6 +46,6 @@
    <h2>My Stats</h2>
      <p>
      <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=DORTROX&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
-     <img src="https://github-readme-stats.vercel.app/api?username=DORTROX&theme=radical" />
+     <img src="https://github-readme-stats.vercel.app/api?username=DORTROX&theme=tokyonight" />
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DORTROX&layout=compact" />
  </p>
