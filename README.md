@@ -24,7 +24,8 @@
 </p>
 </p>
 
-   <h2>My server</h2>
+   <h2>My socials</h2>
    <p>
      <img src="https://img.shields.io/discord/803947482258210817?color=blue&label=D%20O%20R%20T%20R%20O%20%E4%B9%82" />
+     <img src="https://img.shields.io/youtube/channel/subscribers/UCYVM_plG8shZopLmBKIQySw?color=blue&label=DORTORX%20GAMING&style=flat-square" />
    </p>
