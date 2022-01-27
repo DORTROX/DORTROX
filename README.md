@@ -25,4 +25,6 @@
 </p>
 
    <h2>My server</h2>
-   <p>/discord/:803947482258210817</p>
+   <p>
+     <img src="https://img.shields.io/discord/803947482258210817" />
+   </p>
