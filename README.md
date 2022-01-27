@@ -46,5 +46,5 @@
    </h2>
    
    <h2>
-     ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DORTROX&theme=radical)
+     https://github-readme-stats.vercel.app/api?username=DORTROX&theme=radical
    </h2>
