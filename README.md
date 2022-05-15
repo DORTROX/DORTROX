@@ -7,3 +7,7 @@
   <img src="https://img.shields.io/badge/YouTube-blueviolet?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div>
+<div id="header" align="center">
+  <img src="https://discordapp.com/channels/@me/853265428951072789/975399615685869648" width="100"/>
+  <h1>HI<br> I AM DORTROX</h1>
+</div>
