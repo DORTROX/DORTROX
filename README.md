@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://user-images.githubusercontent.com/78467470/168476573-b0df52f2-c02b-4c41-abc2-46764bc7375c.png" width="100"/>
-  <h1>Hi,<br> I am DORTROX</h1>
+  <h1>HI!,<br> I AM DORTROX</h1>
 </div>
 <div id="badges" align="center">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
