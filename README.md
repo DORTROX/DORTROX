@@ -60,7 +60,7 @@ BONJOUR<br> I AM DORTROX</h1>
         }
 } 
 
-<h1 align="center">IM STILL A BEGINNER<br>BUT BETTER THAN YESTERDAY</h1>
+<h1 align="center">BETTER THAN YESTERDAY</h1>
 </pre>
 
 <br>
