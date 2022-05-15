@@ -14,4 +14,5 @@
   <h1>About me</h1>
   <br>
 </div>
-![snake gif](https://github.com/DORTROX/DORTROX/blob/output/github-contribution-grid-snake.gif)
+<img src="https://github.com/DORTROX/DORTROX/blob/output/github-contribution-grid-snake.gif">
+
