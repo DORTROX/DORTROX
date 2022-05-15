@@ -9,5 +9,9 @@
 </div>
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/ntMpS9fBFZfPy/giphy.gif?cid=790b761180095a5ce3e61c162fb9d452466c22662b63cb57&rid=giphy.gif&ct=g" width="50%"/>
+  <br>
+  <br>
+  <h1>About me</h1>
+  <br>
 </div>
 
