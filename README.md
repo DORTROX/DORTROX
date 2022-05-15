@@ -14,5 +14,50 @@
   <h1>About me</h1>
   <br>
 </div>
-<img src="https://github.com/DORTROX/DORTROX/blob/output/github-contribution-grid-snake.gif">
+<pre>
+{
+    "Age": 18,
+    "Skills" : {
+                    "Languages & others" : 
+                    {
+                        Html, -----
+                        css,       |--- (Front End Web Dev)---------------------
+                        js,   -----                                             |
+                        c,                                                      |
+                        c++,                                                    |
+                        python, --------------------                            |
+                        java,                       |                           |---(Full Stack Web Dev)
+                        php,                        |                           |
+                        json                        |                           |
+                    },                              |                           |
+                    "FrameWorks and Libraries" :    |                           |
+                    {                               |----- (Back End Web Dev)---
+                        Tailwind,                   |
+                        BootStrap, -----------------
+                        Discord.js,                 |
+                        Node.js,   -----------------
+                                                    |
+                        Express.js, ----------------
+                        Discord.py,
+                        Pytube,
+                        Stepic
+                    },
+                    "Databases" : 
+                    {
+                        MongoDB,
+                        MYSQL
+                    }
 
+                }
+} 
+</pre>
+
+<br>
+<div>
+<h1 align="center">DORTROX STATS</h1>
+<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DORTROX&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=DORTROX&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=11CBDD)](https://git.io/streak-stats">
+
+</div>
+
+<img src="https://github.com/DORTROX/DORTROX/blob/output/github-contribution-grid-snake.gif">   
