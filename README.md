@@ -34,7 +34,7 @@ BONJOUR<br> I AM DORTROX</h1>
                     "FrameWorks and Libraries" :    |                           |
                     {                               |----- (Back End Web Dev)---
                         Tailwind,                   |
-                        BootStrap, -----------------
+                        BootStrap,                  |
                         Discord.js,                 |
                         Node.js,   -----------------
                                                     |
