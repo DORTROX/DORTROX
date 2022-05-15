@@ -14,5 +14,4 @@
   <h1>About me</h1>
   <br>
 </div>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DORTROX&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ![snake gif](https://github.com/DORTROX/DORTROX/blob/output/github-contribution-grid-snake.gif)
