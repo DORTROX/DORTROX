@@ -8,5 +8,5 @@
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div>
 <div id="header" align="center">
-  <img src="https://media4.giphy.com/media/ntMpS9fBFZfPy/giphy.gif?cid=790b761180095a5ce3e61c162fb9d452466c22662b63cb57&rid=giphy.gif&ct=g" width="100%"/>
+  <img src="https://media4.giphy.com/media/ntMpS9fBFZfPy/giphy.gif?cid=790b761180095a5ce3e61c162fb9d452466c22662b63cb57&rid=giphy.gif&ct=g" width="50%"/>
 </div>
