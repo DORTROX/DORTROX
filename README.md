@@ -47,8 +47,11 @@ BONJOUR<br> I AM DORTROX</h1>
                     {
                         MongoDB,
                         MYSQL
-                    }
-
+                    },
+                    "Extras" :
+                    {
+                      CTF Challenger,
+                      Penetration Tester
                 },
         "Hobbies" : {
             Travel,
